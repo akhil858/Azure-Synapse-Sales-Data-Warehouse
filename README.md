@@ -1,4 +1,4 @@
-# Azure Synapse Analytics Project
+# Azure Synapse Sales Data Warehouse
 
 This repository contains an Azure Synapse Analytics project for ingesting and preparing sales data for analytics. It demonstrates a data engineering workflow that copies CSV data into a Parquet-based bronze layer, applies a mapping data flow for transformation, and includes SQL scripts for setting up silver- and gold-layer warehouse objects.
 
